@@ -1,13 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.imageadhouse{
+    background-image: url('https://foyr.com/learn/wp-content/uploads/2022/06/types-of-house-styles-and-homes.jpg');
+    background-size: cover;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.imagemobile{
+    background-image: url('https://5.imimg.com/data5/OW/YC/MY-31199246/open-box-2f-refurbished-mobile-27s.jpg');
+    background-size:  cover;
+
+}
+
+.imagevehicle{
+    background-image: url('https://i.ytimg.com/vi/2qftzqOrwIw/maxresdefault.jpg');
+
+    background-size:  cover;
+
 }
